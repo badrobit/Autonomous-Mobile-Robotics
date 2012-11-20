@@ -1,0 +1,1967 @@
+v
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: wxsqlite3-2.8-dbg
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: rtpg-www
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: phaseshift
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libstdc++6-4.5-pic-armel-cross
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libmpfi0
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: mlpost
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libmaloc-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: liblablgtk2-gl-ocaml
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libnb-org-openide-util-java
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libfinance-bank-ie-permanenttsb-perl
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: gcompris-sound-br
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: cl-webactions
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: auditd
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: athena-jot
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: adacontrol
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: openoffice.org-gnome
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgnomeui-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libegl1-mesa-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: liborc-0.4-0
+Architecture: i386
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libgtkmm-3.0-1
+Architecture: i386
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: ros-groovy-universal-robot
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: tesseract-ocr-chi-tra
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: snmptrapfmt
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: rdsconsole
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: liboscpack1
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libinnodb3
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgmerlin-avdec-doc
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libglobus-gsi-proxy-ssl-doc
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libghc6-gitit-doc
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcheese-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libbtparse0
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgridsite1.7
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-instant
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: filezilla
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: extremetuxracer-extras
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: collectd-dbg
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: aws-status
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: tomcat6-common
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: librados2-dbg
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: yate-alsa
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: pcp-import-iostat2pcp
+Architecture: i386
+Unseen: noe: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: rail
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-presage-dbg
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libweb-simple-perl
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libossp-sa12
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: liblwp-online-perl
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: liblapack-pic
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libjson-wheel-ocaml-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libjboss-security-java
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libbusiness-onlinepayment-payconnect-perl
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libann0
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: koffice-l10n-ca
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libsfgfortran3-armhf-cross
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libsfgcc1-armhf-cross
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: emboss-data
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: biblememorizer
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: aewm++
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: lib64z1-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: language-pack-gnome-sa-base
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libklibc
+Architecture: i386
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: qsstv
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: purity
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: librepository-java-doc
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libqglviewer-qt3-2
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libmoosex-types-netaddr-ip-perl
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libghc-hxt-unicode-doc
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libaudio-mpd-common-perl
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libhtsengine1
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxneur
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: gwaei
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: garden-of-coloured-lights
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: antigravitaattori
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libdbd-pg-perl
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxcomposite1-dbg
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libtext-glob-perl
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libelfg0-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: mini-dinstall
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: brother-lpr-drivers-laser1
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: west-chamber-dkms
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-relational
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: navit-gui-internal
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libwxgtk2.6-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libtclcl1
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libqtpublishsubscribe1
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libclass-trigger-perl
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: gnustep
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: evernote-mode
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: connman-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: cloudfoundry-client
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: aspell-gl-minimos
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: php-mdb2
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libccid
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: language-pack-kde-si-base
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ttf-takao-pgothic
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: vagrant
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: terraintool
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: sbnc-php-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: qgfe
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: openswan-modules-source
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: oolite-data
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: subtitleeditor
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: librdmawrap2-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libraul-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libopenblas-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: mp3splt
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libghc6-hashed-storage-prof
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libghc-directory-tree-doc
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: firestarter
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: dares
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: coinor-libdylp-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: lxde-icon-theme
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: rake
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ltsp-client
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: language-pack-gnome-zu-base
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: gutenprint-doc
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libglu1-mesa
+Architecture: i386
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libccs3
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: bridge-utils
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: smbfs
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: zimpl
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: zabbix-server-pgsql
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: vnstat
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: survex-aven
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: r-cran-effects
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: php-html-common
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libqpx0
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libmultibitnums-ruby1.9.1-dbg
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libghc-hjavascript-doc
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libqtconnectivity1
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libapp-termcast-perl
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ruby-algorithm-diff
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ioquake3-dbg
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgrib2c0d
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: php-mime-type
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: zentyal-ca
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: addressmanager.app
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: qemu
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: mercurial
+Architecture: i386
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: vdr-plugin-svdrpservice
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: xfce4-taskmanager
+Architecture: i386
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: python-pychart-doc
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: model-builder
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: mtpaint
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: liggghts
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxcompshad3
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libhttp-server-simple-mason-perl
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: kx11grab
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: koffice-l10n-da
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgpds0
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: pd-zexy
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ckport-database
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ceph-mds
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libreoffice-help-ca
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libavahi-compat-libdnssd-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: wxbanker
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: recover
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: lio-utils
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libsqlite3-ruby1.9.1
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libghc6-monoid-transformer-prof
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libghc-hxt-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libghc-highlighting-kate-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libethos-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libsyntax-highlight-perl-improved-perl
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libclass-accessor-chained-perl
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: jbig2dec
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: aolserver4-nsxml
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: wdanish
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libverto-libevent1
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libsane-extras
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libsmokeqimageblitz3
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcommons-io-java-doc
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: texlive-lang-all
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: topgit
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: php-event-dispatcher
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libmlpost-ocaml-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libmixlib-cli-ruby1.9.1
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libjinput-jni
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libghc-blaze-builder-conduit-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: hledger-vty
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: fonts-sil-galatia
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: critterding
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcherokee-mod-geoip
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: asoundconf-gtk
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ocfs2-tools
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libid3tag0-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ros-groovy-ros-realtime
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: sync-ui
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: subtitlecomposer
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-mhash
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: lojban-common
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libisfreetype-5.2-java
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libglobus-rsl-doc
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libdns-zoneparse-perl
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: gkrellm-thinkbat
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: fonts-sil-andika
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: claws-mail-attach-warner
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: aegis-web
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: fragmaster
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libqrencode-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxcb-glx0
+Architecture: i386
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: ros-groovy-perception
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: skeinforge
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-zope.app.preference
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-sphinxcontrib.issuetracker
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: mupen64plus-video-glide64-dbg
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Rem: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libtclcl1-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libscalapack-pvm-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libopengl-xscreensaver-perl
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libfontbox-java
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libdsdp-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libboost-date-time1.48.0
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libbitstream-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libaqbanking-plugins-libgwenhywfar60
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libmotif-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: keynav
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: cenon.app
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libbotan1.8-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ndtpd
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: batctl
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ale
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libcrypt-des-perl
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: zbuildtools
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: yorick-yeti-tiff
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: txtreader
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: sugar-pippy-activity
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: mmake
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libtext-english-perl
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxml-ruby
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libpocoodbc9-dbg
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgtk2-traymanager-perl
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libghc-primitive-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libformula-java-doc
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libhtml-fillinform-perl
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: latex-cjk-chinese
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: kubuntu-low-fat-settings
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: prboom
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: cgvg
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: amb-plugins
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxen-ocaml
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgles2-mesa
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libgail-3-0-dbg
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: jhove
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: science-biology
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: rtai
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-fs
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-psutil
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libnxml0-dbg
+Archtecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: python-gi
+Architecture: i386
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: mythweb
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: sugar-firefox-activity
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: omake-doc
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libusb-ruby
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libspring-security-acl-2.0-java
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libphat-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: liboil0.3-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libocamlodbc-ocaml-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libghc6-uulib-doc
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libghc6-stream-prof
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libalberta2
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libghc-hdbc-sqlite3-doc
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: fprobe-ng
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: sensible-mda
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: drupal6-mod-contemplate
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: dict-freedict-eng-fra
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: bmon
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: xserver-xorg-core-dbg
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: strigi-dbg
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libxmlrpc-c3-dev
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libmtdev1
+Architecture: i386
+Unseen: no
+State: 1
+Dselect-State: 1
+Remove-Reason: 0
+
+Package: libkdeedu-data
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libjunitperf-java-doc
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: virtualenvwrapper
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: uim-gtk3
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: pkg-config-arm-linux-gnueabihf
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: nexus-tools
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: w3c-markup-validator
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libtemplate-plugin-calendar-simple-perl
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libghc6-haskelldb-hdbc-sqlite3-doc
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: libghc-monadrandom-doc
+Architecture: i386
+Unseen: no
+State: 3
+Dselect-State: 0
+Remove-Reason: 0
+
+Package: ebsmount
+Architecture: i386
+Unse
