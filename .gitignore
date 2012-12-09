@@ -43,3 +43,4 @@ build/
 msg_gen/
 srv_gen/
 mr_ui/.DS_Store
+html/
