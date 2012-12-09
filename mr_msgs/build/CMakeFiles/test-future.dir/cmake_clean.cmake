@@ -1,1 +1,0 @@
-=gf=gf=gf=gf=gf=gf=gf=gf=gf<ff<ff<fe<fe<fe<fe<fe<fe;fe;fe;fe;fe;fe;fe;fd;fd;fd;fd;fd;fd;fd;fd;ed;ed<ee<ee<ee<ee<ed<ed<ed<ed<ed;ee;ee;ee;ee;ee;ee;ee;ee;fe;fe;fe;fe;fe;fe;fe;fe;fe;fe;fe;fe;fe;fe;fe;fe;fe;ee;ee;ed;ed;ed;ed;fe;fe;fe;fe;ff;ff;fg;fg;fg:fg:fh:gi:gj:g
