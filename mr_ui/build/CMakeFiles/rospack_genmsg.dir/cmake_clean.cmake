@@ -1,9 +1,0 @@
-ent
-       x1="62.988873"
-       y1="13.182598"
-       x2="62.988873"
-       y2="16.19013"
-       id="linearGradient2450"
-       xlink:href="#linearGradient6404"
-       gradientUnits="userSpaceOnUse"
-       gradie
