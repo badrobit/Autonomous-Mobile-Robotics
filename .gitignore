@@ -44,3 +44,8 @@ msg_gen/
 srv_gen/
 mr_ui/.DS_Store
 html/
+mr_braitenberg/.DS_Store
+
+mr_braitenberg/cfg/.DS_Store
+
+mr_braitenberg/src/.DS_Store
