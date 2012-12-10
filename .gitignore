@@ -49,3 +49,21 @@ mr_braitenberg/.DS_Store
 mr_braitenberg/cfg/.DS_Store
 
 mr_braitenberg/src/.DS_Store
+
+mr_braitenberg/cfg/cpp/.DS_Store
+
+mr_braitenberg/src/mr_braitenberg/.DS_Store
+
+mr_bugs/.DS_Store
+
+mr_msgs/.DS_Store
+
+mr_navigation/.DS_Store
+
+mr_perception/.DS_Store
+
+mr_srvs/.DS_Store
+
+mr_stage_worlds/.DS_Store
+
+mr_tools/.DS_Store
